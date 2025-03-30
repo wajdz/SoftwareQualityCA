@@ -1,0 +1,69 @@
+# Project Plan 
+The project plan consists of the topics and the work distributed between team members.
+The topics in the Project Plan: 
+-Task Estimation in Scrum
+-Code Reviews 
+-Coding Standards
+
+The step after this is, to decide who is going to work on what task. As there is a group of 2 each person will have one topic to themselves and one which the workload is split, but also both members will contribute to each topic so we keep on track.
+
+##### Tasks
+##
+| Task | Team Member |
+| ------ | ------ |
+| Task Estimation in Scrum | Wajd Ziadeh & Fiza Jamil |
+| Coding Standards | Wajd Ziadeh & Fiza Jamil |
+| Code Reviews | Wajd Ziadeh & Fiza Jamil |
+| Project Plan | Introduction | Wajd Ziadeh & Fiza Jamil |
+
+Both members will be working on the same topics so in order to avoid any issues or overlaps we can review each other's work. Once one person has added to their topic they can let the other team member know so they are up to date with any research made by the other team member. The project plan was modified after each team member had chosen their topic and the Github Repository was made so each team member could follow the Gitflow process. Both team members work on a feature branch before merging it to the develop branch. Before merging to develop branch each team member must review the work.
+
+Gitflow Process: 
+-Review the pull request
+-Accept the pull request
+-Create a feature branch
+-Commit chnages to the feature branch
+-Push feature branch to remote repository
+-Create Pull request
+-Review and feedback
+-Merge pull request into develop
+-Pull latest changes ftom develop
+-Update source repository with all changes
+-Repeat for each task.
+
+Wajds's Tasks
+- Find 3 articles on topic first picked.
+- Find 2 more articles on both other topics contributing to. 
+- Write minimum 500 words on first topic and another 200-300 on second and third.
+- Inlcude any diagrams or images.
+
+Fiza's Tasks
+- Find 3 articles on topic first picked.
+- Find 2 more articles on both other topics contributing to. 
+- Write minimum 500 words on first topic and another 200-300 on second and third.
+- Inlcude any diagrams or images.
+
+
+| Team Member   | Contribution                                  | Verified By        |
+|---------------|-----------------------------------------------|--------------------|
+| Wajd Ziadeh   | - Coding Standards                            | Fiza               |
+|               | - Added to Task Estimation                    |                    |
+|               | - Arranged meetings                           |                    |
+                | - Introduction and Project Plan               |                    |
+|               | - Created Repository                          |                    |
+                | - Task Estimation in Scrum                    |                    |
+|               | -  Added to Code Reviews   
+|               | - Re read everything and made sure it was     |                    |
+|               |   good to go.                                 |                    |
+| Fiza Jamil    | - Code Reviews                                | Wajd               |
+|               | - Added to Coding Standards                   |                    |
+|               | - Contributed to Intro                        |                    |
+|               | - Reviewed all files making sure up to date   |                    |
+|               | - Contributed to Project Plan        
+|               | - Re read everything and made sure it was     |                    |
+|               |   good to go.                                 |                    |
+       
+Things we would do differently: 
+- Have More meetings
+- Check the Feature Branches and leave more comments 
+- Better time management        
